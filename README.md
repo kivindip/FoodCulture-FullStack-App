@@ -47,7 +47,6 @@ This project was developed to practice and improve full-stack web development sk
 
 ## Project Structure
 
-
 FoodCulture-FullStack-App
 │
 ├── frontend
@@ -71,4 +70,3 @@ FoodCulture-FullStack-App
 
 ```bash
 git clone https://github.com/kivindip/FoodCulture-FullStack-App.git
-Backend Setup
